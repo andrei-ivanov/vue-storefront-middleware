@@ -1,6 +1,6 @@
 {
-  "projectName": "__replace_me__",
-  "projectOwner": "vuestorefront",
+  "projectName": "vue-storefront-middleware",
+  "projectOwner": "Loylogic",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [

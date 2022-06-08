@@ -1,7 +1,7 @@
 module.exports = {
   integrations: {
-    __replace_me__: {
-      location: '@vue-storefront/__replace_me__-api/server',
+    vue_storefront_middleware: {
+      location: '@vue-storefront/vue-storefront-middleware-api/server',
       configuration: {}
     }
   }
