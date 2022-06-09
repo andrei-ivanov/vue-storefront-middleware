@@ -20,6 +20,7 @@ lib
 coverage
 
 # Editor directories and files
+*.iml
 .idea
 .vscode
 
